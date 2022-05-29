@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar Jha</h1>
 <h3 align="center">Java Backend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush771&label=Profile%20views&color=0e75b6&style=flat" alt="iamAyushK" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aayush771&label=Profile%20views&color=0e75b6&style=flat" alt="iamAyushK" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush771" alt="iamAyushK" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aayush771" alt="iamAyushK" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ayushraj315" target="blank"><img src="https://img.shields.io/twitter/follow/ayushraj315?logo=twitter&style=for-the-badge" alt="ayushraj315" /></a> </p>
 
@@ -37,7 +37,7 @@
 </a> <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
    <a href="https://docs.spring.io/spring-framework/docs/current/reference/html//" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springio" width="40" height="40"/> </a>  <a href="https://hibernate.org/orm/documentation/6.0/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="springio" width="40" height="40"/> </a><a href="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="springio" width="40" height="40"/> </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush771&show_icons=true&locale=en&layout=compact&theme=dracula" alt="iamAyushK" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush771&show_icons=true&locale=en&theme=dracula" alt="iamAyushK" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aayush771&show_icons=true&locale=en&layout=compact&theme=dracula" alt="iamAyushK" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aayush771&show_icons=true&locale=en&theme=dracula" alt="iamAyushK" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush771&theme=tokyonight" alt="iamAyushK" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush771&theme=tokyonight" alt="iamAyushK" /></p>
