@@ -1,10 +1,9 @@
+[![MasterHead](https://github.com/Aayush771/Ayush-Portfolio/blob/master/img/White%20Minimalist%20Profile%20LinkedIn%20Banner.gif?raw=true)](https://github.com/Aayush771)
 <h1 align="center">Hi 👋, I'm Ayush Kumar Jha</h1>
 <h3 align="center">Passionate Java Backend Developer</h3>
-
+<br/>
+<img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aayush771&label=Profile%20views&color=0e75b6&style=flat" alt="iamAyushK" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aayush771" alt="iamAyushK" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ayushraj315" target="blank"><img src="https://img.shields.io/twitter/follow/ayushraj315?logo=twitter&style=for-the-badge" alt="ayushraj315" /></a> </p>
 
 - 🌱 I’m currently learning **Spring**
@@ -17,6 +16,8 @@
 
 - ⚡ Fun fact **when i heard first time about js and java i was assuming js and java as same language**
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aayush771" alt="iamAyushK" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -39,4 +40,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aayush771&show_icons=true&locale=en&layout=compact&theme=dracula" alt="iamAyushK" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aayush771&show_icons=true&locale=en&theme=dracula" alt="iamAyushK" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush771&theme=tokyonight" alt="iamAyushK" /></p>
+[![Ayush Kumar Jha GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Aayush771&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Aayush771)
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+ </p>
