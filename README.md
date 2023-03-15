@@ -38,7 +38,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aayush771&show_icons=true&locale=en&layout=compact&theme=dracula" alt="iamAyushK" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aayush771&show_icons=true&locale=en&theme=dracula" alt="iamAyushK" /></p>
 
-[![Ayush Kumar Jha GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Aayush771&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Aayush771)
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
