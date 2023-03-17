@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aayush771&label=Profile%20views&color=0e75b6&style=flat" alt="iamAyushK" /> </p>
 <p align="left"> <a href="https://twitter.com/ayushraj315" target="blank"><img src="https://img.shields.io/twitter/follow/ayushraj315?logo=twitter&style=for-the-badge" alt="ayushraj315" /></a> </p>
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Spring Security**
 - 🤝 I’m looking for help with **Java stack project**
 - 👨‍💻 All of my projects are available at https://github.com/Aayush771
 - 💬 Ask me about **DSA and Backend Development**
