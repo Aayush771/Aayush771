@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/Aayush771/Ayush-Portfolio/blob/master/img/White%20Minimalist%20Profile%20LinkedIn%20Banner.gif?raw=true)](https://github.com/Aayush771)
-<h1 align="center">Hi 👋, I'm Ayush Kumar Jha</h1>
+<h1 align="center">Hi 👋, I'm Ayush Kumar </h1>
 <h3 align="center">Passionate Java Backend Developer</h3>
 <br/>
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"/>
@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1qopqXcf-EouXTMVFn9LMrszAEdOoKDCs/view?usp=sharing" target="blank"><img align="center" src="https://www.nicepng.com/png/detail/122-1225369_the-resume-shop-logo-resume-logo.png" alt="ayushraj315" height="30" width="100" /></a>
 
-- ⚡ Fun fact **when i heard first time about js and java i was assuming js and java as same language**
+- ⚡ Fun fact **when I heard the first time about JS and java I assumed JS and Java were the same language**
 
 
 <h3 align="left">Connect with me:</h3>
