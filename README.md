@@ -12,10 +12,9 @@
 - 💬 Ask me about **DSA and Backend Development**
 - 📫 How to reach me **ayushraj315@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1qopqXcf-EouXTMVFn9LMrszAEdOoKDCs/view?usp=sharing" target="blank"><img align="center" src="https://www.nicepng.com/png/detail/122-1225369_the-resume-shop-logo-resume-logo.png" alt="ayushraj315" height="30" width="100" /></a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1bZWIsRmLYKjyfQsIpMqd8Jan9-5kKpa9/view?usp=sharing" target="blank"><img align="center" src="https://www.nicepng.com/png/detail/122-1225369_the-resume-shop-logo-resume-logo.png" alt="ayushraj315" height="30" width="100" /></a>
 
-- ⚡ Fun fact **when I heard the first time about JS and java I assumed JS and Java were the same language**
-
+- ⚡ Fun fact **when I heard the first time about JS and Java I assumed JS and Java were the same language**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
