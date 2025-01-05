@@ -4,9 +4,10 @@
 <br/>
 
 <img
-  src="https://github.com/Aayush771/E-Commerce-Application/blob/master/images/stat.svg"
+  src="https://github.com/Aayush771/E-Commerce-Application/blob/main/images/stat.svg"
   alt="Aayush WakaTime Activity"
 />
+
 
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aayush771&label=Profile%20views&color=0e75b6&style=flat" alt="iamAyushK" /> </p>
