@@ -4,7 +4,7 @@
 <br/>
 
 <img
-  src="https://github.com/<Aayush771>/<E-Commerce-Application>/blob/<master>/images/stat.svg"
+  src="https://github.com/Aayush771/E-Commerce-Application/blob/master/images/stat.svg"
   alt="Aayush WakaTime Activity"
 />
 
