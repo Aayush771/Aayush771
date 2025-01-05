@@ -4,7 +4,7 @@
 <br/>
 
 <img
-  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
+  src="https://github.com/<Aayush771>/<E-Commerce-Application>/blob/<master>/images/stat.svg"
   alt="Alternative Text"
 />
 Example:
