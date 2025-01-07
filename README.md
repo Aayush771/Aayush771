@@ -5,7 +5,7 @@
 
 <img
   src="https://github.com/Aayush771/E-Commerce-Application/blob/main/images/stat.svg"
-  alt="Aayush WakaTime Activity"
+  alt="Aayush"
 />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aayush771&label=Profile%20views&color=0e75b6&style=flat" alt="iamAyushK" /> </p>
