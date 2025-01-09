@@ -3,11 +3,6 @@
 <h3 align="center">Passionate Java Developer</h3>
 <br/>
 
-<img
-  src="https://github.com/Aayush771/E-Commerce-Application/blob/main/images/stat.svg"
-  alt="Aayush"
-/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aayush771&label=Profile%20views&color=0e75b6&style=flat" alt="iamAyushK" /> </p>
 <p align="left"> <a href="https://twitter.com/ayushraj315" target="blank"><img src="https://img.shields.io/twitter/follow/ayushraj315?logo=twitter&style=for-the-badge" alt="ayushraj315" /></a> </p>
 
