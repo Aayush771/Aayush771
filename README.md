@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/Aayush771/Ayush-Portfolio/blob/master/img/White%20Minimalist%20Profile%20LinkedIn%20Banner.gif?raw=true)](https://github.com/Aayush771)
 <h1 align="center">Hi 👋, I'm Ayush Kumar </h1>
-<h3 align="center">Passionate Java Developer</h3>
+<h3 align="center">Passionate Software Developer</h3>
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aayush771&label=Profile%20views&color=0e75b6&style=flat" alt="iamAyushK" /> </p>
