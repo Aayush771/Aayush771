@@ -1,43 +1,188 @@
-[![MasterHead](https://github.com/Aayush771/Ayush-Portfolio/blob/master/img/White%20Minimalist%20Profile%20LinkedIn%20Banner.gif?raw=true)](https://github.com/Aayush771)
-<h1 align="center">Hi 👋, I'm Ayush Kumar </h1>
-<h3 align="center">Passionate Software Developer</h3>
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:ff6b35,30:f7c59f,60:ff006e,100:8338ec&height=300&section=header&text=AYUSH%20KUMAR&fontSize=80&fontColor=ffffff&fontAlignY=45&desc=◈%20FULL%20STACK%20DEVELOPER%20◈%20JAVA%20%7C%20SPRING%20%7C%20CLOUD%20◈&descAlignY=68&descSize=14&animation=scaleIn&stroke=ffffff&strokeWidth=2)
+
+<div align="center">
+
+<a href="https://github.com/Aayush771">
+  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=32&duration=2000&pause=800&color=FF006E&center=true&vCenter=true&multiline=false&width=600&lines=ARCHITECT+OF+DIGITAL+SYSTEMS;BACKEND+CRAFTSMAN+%2B+CLOUD+NATIVE;3%2B+YEARS+%7C+FULL+STACK+%7C+JAVA;BUILDING+THINGS+THAT+SCALE" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+![](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-FF006E?style=flat-square&labelColor=FF006E)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Aayush771&label=👁%20VIEWS&color=FF006E&style=for-the-badge)](https://github.com/Aayush771)
+[![Twitter](https://img.shields.io/twitter/follow/ayushraj315?style=for-the-badge&logo=twitter&color=8338EC&labelColor=0d0d0d)](https://twitter.com/ayushraj315)
+[![Experience](https://img.shields.io/badge/🔥%20EXPERIENCE-3%2B%20YEARS-FF6B35?style=for-the-badge&labelColor=0d0d0d)](https://github.com/Aayush771)
+[![Status](https://img.shields.io/badge/⚡%20STATUS-AVAILABLE-00f5d4?style=for-the-badge&labelColor=0d0d0d)](mailto:ayushraj315@gmail.com)
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="55%">
+
+## ◈ WHO AM I
+
+```
+╭──────────────────────────────────────╮
+│                                      │
+│   AYUSH KUMAR                        │
+│   ─────────────────────────────      │
+│   Full Stack Developer               │
+│   India 🇮🇳  |  3+ Years             │
+│                                      │
+│   ► Java & Spring Boot wizard        │
+│   ► Cloud-native system builder      │
+│   ► DSA problem solver               │
+│   ► Docker & K8s enthusiast          │
+│   ► Currently mastering              │
+│     Spring Security                  │
+│                                      │
+│   "Code is poetry written            │
+│    for machines to execute           │
+│    and humans to admire."            │
+│                                      │
+╰──────────────────────────────────────╯
+```
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="320" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## ◈ THE ARSENAL
+
+![](https://img.shields.io/badge/━━━━━━━━━━%20BACKEND%20CORE%20━━━━━━━━━━-FF006E?style=flat-square&labelColor=FF006E)
+
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/SPRING_SECURITY-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/HIBERNATE-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+![](https://img.shields.io/badge/━━━━━━━━━━%20FRONTEND%20━━━━━━━━━━-8338EC?style=flat-square&labelColor=8338EC)
+
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TAILWIND-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![](https://img.shields.io/badge/━━━━━━━━━━%20DATABASES%20━━━━━━━━━━-FF6B35?style=flat-square&labelColor=FF6B35)
+
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+![](https://img.shields.io/badge/━━━━━━━━━━%20DEVOPS%20%26%20CLOUD%20━━━━━━━━━━-00F5D4?style=flat-square&labelColor=00F5D4)
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## ◈ SYSTEM ARCHITECTURE
+
+```
+                    ╔══════════════════════════════════════════════════╗
+                    ║           AYUSH'S FULL STACK BLUEPRINT           ║
+                    ╚══════════════════════════════════════════════════╝
+
+  ┌─────────────────────────────────────────────────────────────────────┐
+  │  🌐  CLIENT LAYER                                                   │
+  │      HTML5 · CSS3 · JavaScript · Tailwind CSS · Bootstrap           │
+  └──────────────────────────────┬──────────────────────────────────────┘
+                                 │  HTTP / REST
+  ┌──────────────────────────────▼──────────────────────────────────────┐
+  │  ⚙️  API LAYER                                                       │
+  │      Spring Boot · Spring Security · JWT · Hibernate ORM            │
+  └────────┬─────────────────────┬────────────────────────┬─────────────┘
+           │                     │                        │
+  ┌────────▼──────┐    ┌─────────▼────────┐    ┌─────────▼────────┐
+  │  🗄️  RELATIONAL│    │  📦  DOCUMENT DB │    │  ⚡  CACHE        │
+  │  MySQL        │    │  MongoDB         │    │  Redis           │
+  │  PostgreSQL   │    │                  │    │                  │
+  └───────────────┘    └──────────────────┘    └──────────────────┘
+                                 │
+  ┌──────────────────────────────▼──────────────────────────────────────┐
+  │  🚀  INFRASTRUCTURE                                                  │
+  │      Docker Containers → Kubernetes Orchestration → AWS Cloud       │
+  └─────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+## ◈ BATTLEFIELD STATS
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aayush771&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=FF006E&icon_color=8338EC&text_color=ffffff&border_radius=12" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush771&theme=radical&hide_border=true&background=0d0d0d&ring=FF006E&fire=FF6B35&currStreakLabel=FF006E&sideLabels=8338EC&dates=ffffff&border_radius=12" width="49%" />
+
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aayush771&label=Profile%20views&color=0e75b6&style=flat" alt="iamAyushK" /> </p>
-<p align="left"> <a href="https://twitter.com/ayushraj315" target="blank"><img src="https://img.shields.io/twitter/follow/ayushraj315?logo=twitter&style=for-the-badge" alt="ayushraj315" /></a> </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aayush771&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=FF006E&text_color=ffffff&border_radius=12" width="34%" />
+&nbsp;
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush771&bg_color=0d0d0d&color=FF006E&line=8338EC&point=FF6B35&hide_border=true&radius=8" width="60%" />
 
-- 🌱 I’m currently learning **Spring Security**
-- 🤝 I’m looking for help with **Java stack project**
-- 👨‍💻 All of my projects are available at https://github.com/Aayush771
-- 💬 Ask me about **DSA and Backend Development**
-- 📫 How to reach me **ayushraj315@gmail.com**
+</div>
 
-- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1bZWIsRmLYKjyfQsIpMqd8Jan9-5kKpa9/view?usp=sharing](https://drive.google.com/file/d/1O4GnNaywK1nDRJ9WvJajun0xy6jOWccg/view?usp=sharing)" target="blank"><img align="center" src="https://www.nicepng.com/png/detail/122-1225369_the-resume-shop-logo-resume-logo.png" alt="ayushraj315" height="30" width="100" /></a>
+---
 
-- ⚡ Fun fact **when I heard the first time about JS and Java I assumed JS and Java were the same language**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## ◈ HALL OF FAME
 
-<a href="https://twitter.com/ayushraj315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushraj315" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ayush-kumar-jha1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kumar-jha1/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ayush.raj911/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayush.raj911" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ayush.raj11/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yush.raj11/?hl=en" height="30" width="40" /></a>
-<a href="https://medium.com/@ayushraj315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ayushraj315" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ayush_fw15_339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayush_fw15_339" height="30" width="40" /></a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aayush771&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-</a> <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-   <a href="https://docs.spring.io/spring-framework/docs/current/reference/html//" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springio" width="40" height="40"/> </a>  <a href="https://hibernate.org/orm/documentation/6.0/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="springio" width="40" height="40"/> </a><a href="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="springio" width="40" height="40"/> </a></p>
-   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aayush771" alt="iamAyushK" /></a> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush771&theme=tokyonight" alt="iamAyushK" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aayush771&show_icons=true&locale=en&layout=compact&theme=dracula" alt="iamAyushK" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aayush771&show_icons=true&locale=en&theme=dracula" alt="iamAyushK" /></p>
+</div>
 
+---
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
- </p>
+<div align="center">
+
+## ◈ FIND ME
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kumar-jha1/)
+[![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ayushraj315)
+[![Medium](https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ayushraj315)
+[![HackerRank](https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ayush_fw15_339)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayush.raj11/)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushraj315@gmail.com)
+
+<br/>
+
+[![Resume](https://img.shields.io/badge/◈%20DOWNLOAD%20RESUME%20◈-FF006E?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1O4GnNaywK1nDRJ9WvJajun0xy6jOWccg/view?usp=sharing)
+[![Portfolio](https://img.shields.io/badge/◈%20VIEW%20ALL%20PROJECTS%20◈-8338EC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aayush771?tab=repositories)
+
+<br/><br/>
+
+```
+◈ ─────────────────────────────────────────────────────────── ◈
+     OPEN TO COLLABS · JAVA STACK · FULL STACK · CLOUD NATIVE
+◈ ─────────────────────────────────────────────────────────── ◈
+```
+
+<br/>
+
+*⭐ Star a repo if something sparks joy — it means the world!*
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=venom&color=0:8338ec,50:ff006e,100:ff6b35&height=150&section=footer&text=LET'S%20BUILD%20SOMETHING%20GREAT&fontSize=28&fontColor=ffffff&fontAlignY=55&animation=fadeIn)
