@@ -94,7 +94,6 @@
 </div>
 
 ---
-
 ## ◈ SYSTEM ARCHITECTURE
 
 ```
@@ -130,31 +129,73 @@
 
 ## ◈ BATTLEFIELD STATS
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aayush771&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=FF006E&icon_color=8338EC&text_color=ffffff&border_radius=12" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush771&theme=radical&hide_border=true&background=0d0d0d&ring=FF006E&fire=FF6B35&currStreakLabel=FF006E&sideLabels=8338EC&dates=ffffff&border_radius=12" width="49%" />
+<p align="center">
 
-<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aayush771&theme=radical" width="90%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aayush771&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=FF006E&text_color=ffffff&border_radius=12" width="34%" />
-&nbsp;
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush771&bg_color=0d0d0d&color=FF006E&line=8338EC&point=FF6B35&hide_border=true&radius=8" width="60%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aayush771&theme=radical" width="44%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aayush771&theme=radical" width="44%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aayush771&theme=radical" width="44%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aayush771&theme=radical&utcOffset=5.5" width="44%" />
+
+</p>
 
 </div>
 
 ---
 
-<div align="center">
+## ◈ CODING ACTIVITY
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+---
+
+## ◈ FEATURED PROJECTS
+
+<p align="center">
+
+<a href="https://github.com/Aayush771/project1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aayush771&repo=OnlineWalletApplication&theme=radical&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Aayush771/project2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aayush771&repo=OnlineWalletApplication&theme=radical&hide_border=true"/>
+</a>
+
+</p>
+
+----
 ## ◈ HALL OF FAME
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aayush771&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
 
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=Aayush771&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8"/>
+
+</p>
 
 ---
 
-<div align="center">
+## ◈ CONTRIBUTION SNAKE
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aayush771/Aayush771/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
+## ◈ DEV WISDOM
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+
+</p>
+
+------
+
+<div align="center">
 ## ◈ FIND ME
 
 <br/>
