@@ -147,7 +147,7 @@
 
 ## ◈ HALL OF FAME
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aayush771&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aayush771&show_icons=true&theme=radical)
 
 </div>
 
